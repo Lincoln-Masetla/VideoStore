@@ -23,8 +23,7 @@ Run Application
 - mvn spring-boot:run
 
 Database 
-
-- Used Postgres SQL
-Database Name: videostore
-Database Server: localhost
-Database Password:
+ Used Postgres SQL
+- Database Name: videostore
+- Database Server: localhost
+- Database Password:
